@@ -64,4 +64,4 @@ The first version will:
 
 Currently working on:
 
-**Step 1 — Planning, development environment, and Git setup**
+**Step 2 — FastAPI Application**

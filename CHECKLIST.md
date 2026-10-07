@@ -16,8 +16,8 @@
 - [x] Create README
 - [x] Create .gitignore
 - [x] Create GitHub repository
-- [ ] Make first documentation commit
-- [ ] Push repository to GitHub
+- [x] Make first documentation commit
+- [x] Push repository to GitHub
 
 ## Step 2 — FastAPI Application
 
