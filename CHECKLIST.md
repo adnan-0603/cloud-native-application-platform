@@ -31,12 +31,12 @@
 
 ## Step 3 — PostgreSQL and Persistence
 
-- [ ] Define application data model
-- [ ] Start PostgreSQL
-- [ ] Connect FastAPI to PostgreSQL
-- [ ] Configure database credentials using environment variables
-- [ ] Add database migrations
-- [ ] Verify data persists after application restart
+- [x] Define application data model
+- [x] Start PostgreSQL
+- [x] Connect FastAPI to PostgreSQL
+- [x] Configure database credentials using environment variables
+- [x] Add database migrations
+- [x] Verify data persists after application restart
 
 ## Step 4 — Application CRUD
 

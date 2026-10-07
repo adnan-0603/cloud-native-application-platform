@@ -64,4 +64,4 @@ The first version will:
 
 Currently working on:
 
-**Step 3 — PostgreSQL and Persistence**
+**Step 4 — Application CRUD**
