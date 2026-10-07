@@ -64,4 +64,4 @@ The first version will:
 
 Currently working on:
 
-**Step 2 — FastAPI Application**
+**Step 3 — PostgreSQL and Persistence**

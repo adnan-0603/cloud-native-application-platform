@@ -21,13 +21,13 @@
 
 ## Step 2 — FastAPI Application
 
-- [ ] Create Python virtual environment
-- [ ] Define project dependencies
-- [ ] Create FastAPI application
-- [ ] Add /health endpoint
-- [ ] Test with Swagger UI
-- [ ] Add first automated test
-- [ ] Verify application logs
+- [x] Create Python virtual environment
+- [x] Define project dependencies
+- [x] Create FastAPI application
+- [x] Add /health endpoint
+- [x] Test with Swagger UI
+- [x] Add first automated test
+- [x] Verify application logs
 
 ## Step 3 — PostgreSQL and Persistence
 
