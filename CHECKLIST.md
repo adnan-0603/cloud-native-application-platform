@@ -40,14 +40,14 @@
 
 ## Step 4 — Application CRUD
 
-- [ ] Create job application
-- [ ] Get one job application
-- [ ] List job applications
-- [ ] Update job application
-- [ ] Delete job application
-- [ ] Add pagination or result limits
-- [ ] Add input validation
-- [ ] Add success and failure tests
+- [x] Create job application
+- [x] Get one job application
+- [x] List job applications
+- [x] Update job application
+- [x] Delete job application
+- [x] Add pagination or result limits
+- [x] Add input validation
+- [x] Add success and failure tests
 
 ## Step 5 — Redis Cache and Fallback
 

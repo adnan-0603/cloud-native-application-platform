@@ -64,4 +64,4 @@ The first version will:
 
 Currently working on:
 
-**Step 4 — Application CRUD**
+**Step 5 — Redis Cache and Fallback**
